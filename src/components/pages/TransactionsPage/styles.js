@@ -37,13 +37,13 @@ export const InputLabel = styled(MaterialInputLabel)`
 export const OutlinedInput = styled(MaterialInput)`
   && {
     & .MuiOutlinedInput-notchedOutline {
-      border-color: #fff; // Replace 'red' with the color you want
+      border-color: #fff;
     }
     &:hover .MuiOutlinedInput-notchedOutline {
-      border-color: #fff; // Replace 'blue' with the hover color you want
+      border-color: #fff;
     }
     &.Mui-focused .MuiOutlinedInput-notchedOutline {
-      border-color: #fff; // Replace 'green' with the focused color you want
+      border-color: #fff;
     }
 
     color: #fff;
